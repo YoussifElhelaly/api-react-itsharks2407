@@ -18,6 +18,8 @@ export default function Navbar(props) {
     });
   })
 
+  console.log("navbar")
+
 
     return (
         <nav class="navbar navbar-expand-lg bg-body-tertiary">
