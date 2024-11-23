@@ -18,7 +18,6 @@ export default function Navbar(props) {
     });
   })
 
-  console.log("navbar")
 
 
     return (
